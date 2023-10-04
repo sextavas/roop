@@ -1,7 +1,7 @@
 Removed the NSFW blocker that is included in the main repo.....
 Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
-## https://colab.research.google.com/github/devIndustrial/roop/blob/main/based_roop.ipynb
+https://colab.research.google.com/github/devIndustrial/roop/blob/main/based_roop.ipynb
 
 ![demo-gif](demo.gif)
 

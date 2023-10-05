@@ -5,6 +5,25 @@ https://colab.research.google.com/github/devIndustrial/roop/blob/main/based_roop
 
 ![demo-gif](demo.gif)
 
+options:
+  -h, --help            show this help message and exit
+  -f SOURCE_IMG, --face SOURCE_IMG
+                        use this face
+  -t TARGET_PATH, --target TARGET_PATH
+                        replace this face
+  -o OUTPUT_FILE, --output OUTPUT_FILE
+                        save output to this file
+  --keep-fps            maintain original fps
+  --keep-frames         keep frames directory
+  --all-faces           swap all faces in frame
+  --max-memory MAX_MEMORY
+                        maximum amount of RAM in GB to be used
+  --cpu-cores CPU_CORES
+                        number of CPU cores to use
+  --gpu-threads GPU_THREADS
+                        number of threads to be use for the GPU
+  --gpu-vendor {apple,amd,intel,nvidia}
+                        choice your GPU vendor
 
 ## Credits
 - [henryruhs](https://github.com/henryruhs): for being an irreplacable contributor to the project
